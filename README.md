@@ -9,9 +9,9 @@ All my public repositories are free for you to use.
 Additionally, if you'd like to reach out for work inquiries, please contact me using the information below.
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-    <h5>
-        Certificate
-    </h5>
+    <h2>
+        Certificate:
+    </h2>
     <a href="https://www.credly.com/badges/1543d512-c9cf-4266-b1a5-7e20e57040fe/linked_in?t=skqctw">
         <img width="70px" height="70px"
             src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
