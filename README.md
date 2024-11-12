@@ -8,7 +8,13 @@ Linus Torvalds is someone I always look up to for both his working style and his
 All my public repositories are free for you to use.
 Additionally, if you'd like to reach out for work inquiries, please contact me using the information below.
 
-Certificate:
-<a href="https://www.credly.com/badges/1543d512-c9cf-4266-b1a5-7e20e57040fe/linked_in?t=skqctw">
-  <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="Placeholder Image">
-</a>
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <h5>
+        Certificate
+    </h5>
+    <a href="https://www.credly.com/badges/1543d512-c9cf-4266-b1a5-7e20e57040fe/linked_in?t=skqctw">
+        <img width="50px" height="50px"
+            src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
+            alt="AWS DVA C02">
+    </a>
+</div>
